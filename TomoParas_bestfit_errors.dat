@@ -1,0 +1,75 @@
+Tomographic AP and RSD in https://arxiv.org/pdf/1709.05173.pdf
+
+bin1: z=0.31	 
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.9576668E+00     0.3054777E-01  
+alpha_\para    0.1029061E+01     0.5293363E-01
+bs8            0.1319863E+01     0.5490869E-01
+fs8            0.3840283E+00     0.8264890E-01
+
+bin2: z=0.36 
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.9593965E+00     0.3513160E-01
+alpha_\para    0.1012271E+01     0.6786985E-01
+bs8            0.1327277E+01     0.7289320E-01
+fs8            0.4090867E+00     0.9808122E-01
+
+bin3: z=0.40
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.9715956E+00     0.2818378E-01
+alpha_\para    0.1018685E+01     0.5714266E-01
+bs8            0.1319720E+01     0.6175373E-01
+fs8            0.4607060E+00     0.8572257E-01
+
+bin4: z=0.44
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.9793345E+00     0.2129781E-01
+alpha_\para    0.1066487E+01     0.4143237E-01
+bs8            0.1343327E+01     0.4472112E-01
+fs8            0.4260201E+00     0.6225998E-01
+
+
+bin5: z=0.48	
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.1008867E+01     0.2179478E-01
+alpha_\para    0.1024128E+01     0.4211854E-01
+bs8            0.1294950E+01     0.4460228E-01
+fs8            0.4583323E+00     0.6275136E-01
+
+bin6: z=0.52	
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.1010768E+01     0.2326067E-01
+alpha_\para    0.1009011E+01     0.5511463E-01
+bs8            0.1256039E+01     0.5345183E-01
+fs8            0.4834721E+00     0.7460528E-01
+
+bin7: z=0.56	
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.1012031E+01     0.2183519E-01
+alpha_\para    0.9569244E+00     0.5164938E-01
+bs8            0.1227361E+01     0.4820094E-01
+fs8            0.4722319E+00     0.6324778E-01
+
+bin8: z=0.59
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.9965689E+00     0.2427247E-01
+alpha_\para    0.9986785E+00     0.4252848E-01
+bs8            0.1247581E+01     0.4190263E-01
+fs8            0.4517423E+00     0.6080729E-01
+
+bin9: z=0.64
+
+parameters     best-fit          1sig error bar
+alpha_\perp    0.9678093E+00     0.2803046E-01
+alpha_\para    0.9998909E+00     0.3679324E-01
+bs8            0.1252787E+01     0.3730789E-01
+fs8            0.3790163E+00     0.5419585E-01
+

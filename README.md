@@ -4,20 +4,20 @@ This folder contains the BAO and RSD measurements at nine redshifts and covarian
 
 # Wang_etal_2017_COMBINEDDR12_Tomo_DA_H_fs8_result.txt
 
-The best-fit values for the parameters {DA*rd_fid/rd(z=0.31,...,0.64), H*rd/rd_fid(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
+The best-fit values for the parameters {DA x rd_fid/rd(z=0.31,...,0.64), H x rd/rd_fid(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
 
 # Wang_etal_2017_COMBINEDDR12_Tomo_DA_H_fs8_invcov.txt
 
-The inverse covariance matrix for for the parameters {DA*rd_fid/rd(z=0.31,...,0.64), H*rd/rd_fid(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
+The inverse covariance matrix for for the parameters {DA x rd_fid/rd(z=0.31,...,0.64), H x rd/rd_fid(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
 
 # Alternative parametrization
 # Wang_etal_2017_COMBINEDDR12_Tomo_DV_F_fs8_result.txt
 
-The best-fit values for the parameters {DV*rd_fid/rd(z=0.31,...,0.64), F_AP(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
+The best-fit values for the parameters {DV x rd_fid/rd(z=0.31,...,0.64), F_AP(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
 
 # Wang_etal_2017_COMBINEDDR12_Tomo_DV_F_fs8_invcov.txt
 
-The inverse covariance matrix for for the parameters {DV*rd_fid/rd(z=0.31,...,0.64), F_AP(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
+The inverse covariance matrix for for the parameters {DV x rd_fid/rd(z=0.31,...,0.64), F_AP(z=0.31,...,0.64), f\sigma_8(z=0.31,...,0.64)}
 
 # TomoParas_bestfit_errors.dat
 
